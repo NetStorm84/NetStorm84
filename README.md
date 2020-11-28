@@ -11,6 +11,6 @@ Aswell as my full time job, I also like to work on side projects, some of which 
 - I first got in to programming around 2002 when I bought a magazine which came with a free copy of Visual Studio.
 - I was once on BBC radio talking about an Android App I created.
 
-### Get in touch
+### :telephone: Get in touch
 You can contact me on the below social accounts
 - Twitter: @sussexcoder
