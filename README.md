@@ -13,4 +13,5 @@ Aswell as my full time job, I also like to work on side projects, some of which 
 
 ### :telephone: Get in touch
 You can contact me on the below social accounts
-- Twitter: @sussexcoder
+- X: @sussexcoder
+- Email: netstorm1984@gmail.com
