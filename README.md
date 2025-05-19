@@ -8,7 +8,7 @@ Aswell as my full time job, I also like to work on side projects, some of which 
 
 - I enjoy weekends away, on my motorbike, camping.
 - I have been learning to play the guitar for the past few years.
-- I first got in to programming around 2002 when I bought a magazine which came with a free copy of Visual Studio.
+- I first got in to programming around 2002 when I bought a magazine which came with a free copy of Visual Studio and Delphi.
 - I was once on BBC radio talking about an Android App I created.
 
 ### :telephone: Get in touch
